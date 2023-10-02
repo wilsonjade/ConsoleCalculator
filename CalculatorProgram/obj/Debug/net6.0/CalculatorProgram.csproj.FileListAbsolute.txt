@@ -1,0 +1,14 @@
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.exe
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.deps.json
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.runtimeconfig.json
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.dll
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.pdb
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.AssemblyInfo.cs
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.dll
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\refint\CalculatorProgram.dll
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.pdb
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.genruntimeconfig.cache
+C:\Users\jadex\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net6.0\ref\CalculatorProgram.dll
